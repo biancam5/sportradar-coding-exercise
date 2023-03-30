@@ -69,5 +69,4 @@ const secondHighestRatedTVShow = tvShows.reduce((prev, current) => {
   }
 });
 
-console.log('Second-highest rated TV show:', secondHighestRatedTVShow.title);
-
+console.log('Second-highest rated TV show:', secondHighestRatedTVShow.title); 
